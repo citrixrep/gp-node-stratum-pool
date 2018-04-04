@@ -32,7 +32,10 @@
         "async": "2.5.0",
         "base58-native": "0.1.4",
         "bignum": "0.12.5",
-        "multi-hashing": "git://github.com/Pczz/gp-node-multi-hashing.git"
+        "multi-hashing": "git://github.com/Pczz/gp-node-multi-hashing.git",
+        "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
+        "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
+        "promise": "*"
     },
     "engines": {
         "node": ">=0.10"
