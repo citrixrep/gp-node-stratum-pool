@@ -31,10 +31,10 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nzsquirrell/node-merged-pool.git"
+        "url": "https://github.com/mineblocks/node-merged-pool.git"
     },
     "dependencies": {
-        "multi-hashing": "file:../node-multi-hashing",
+        "multi-hashing": "https://github.com/mineblocks/node-multi-hashing.git",
         "bignum": {
 			"version": "^0.12.5",
 			"from": "bignum@0.12.5",
